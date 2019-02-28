@@ -1,2 +1,2 @@
 # Bootstrap_loginPage
-A static login page using bootstrap
+A static and responsive login page using bootstrap
